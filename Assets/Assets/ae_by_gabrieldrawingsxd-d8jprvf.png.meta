@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 412562628291ef54eb563e0aec3a136e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ae_by_gabrieldrawingsxd-d8jprvf_0
+    21300002: ae_by_gabrieldrawingsxd-d8jprvf_1
+    21300004: ae_by_gabrieldrawingsxd-d8jprvf_2
+    21300006: ae_by_gabrieldrawingsxd-d8jprvf_3
+    21300008: ae_by_gabrieldrawingsxd-d8jprvf_4
+    21300010: ae_by_gabrieldrawingsxd-d8jprvf_5
+    21300012: ae_by_gabrieldrawingsxd-d8jprvf_6
+    21300014: ae_by_gabrieldrawingsxd-d8jprvf_7
+    21300016: ae_by_gabrieldrawingsxd-d8jprvf_8
+    21300018: ae_by_gabrieldrawingsxd-d8jprvf_9
+    21300020: ae_by_gabrieldrawingsxd-d8jprvf_10
+    21300022: ae_by_gabrieldrawingsxd-d8jprvf_11
+    21300024: ae_by_gabrieldrawingsxd-d8jprvf_12
+    21300026: ae_by_gabrieldrawingsxd-d8jprvf_13
+    21300028: ae_by_gabrieldrawingsxd-d8jprvf_14
+    21300030: ae_by_gabrieldrawingsxd-d8jprvf_15
+    21300032: ae_by_gabrieldrawingsxd-d8jprvf_16
+    21300034: ae_by_gabrieldrawingsxd-d8jprvf_17
+    21300036: ae_by_gabrieldrawingsxd-d8jprvf_18
+    21300038: ae_by_gabrieldrawingsxd-d8jprvf_19
+    21300040: ae_by_gabrieldrawingsxd-d8jprvf_20
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 211
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9dbfa276402d54dbbb7ad7d8fbe07a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 211
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec2437ac98645b45b4f06cd77c84f13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e5bb962f0437c4ba592b02ab4d42b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 163
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73132ad61108aac43a9379073d2efb9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 164
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b68e444181f13428b40c10b48f9ab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 164
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4a1c2c00e53d946a30b13cbbf98047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 164
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be019d6e509854a4a88cfa3fb67fa000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 164
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd3b6a296e63b941b40161cdb454bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 164
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caae413b81ca0c4290325c483915720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 164
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71d94433c91f4349a662ad67a12d485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 115
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71cf5b500975f34a84ff5b5406232e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 116
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d3a2f22147aad4b908cc24d9fc58bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 116
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff3463f9d0804549b55d5b96b80d06a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 118
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdac557b32b544d4a9e2e3a5e7b9e037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 118
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f8ded5de179144f82b4f7fa1e9caaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 118
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf92c52bbca3c74429d8e4dc1aaa26c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 118
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96f430165af8834a9197d9ec974208e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 118
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c579f7254b73e458f71edc051ba396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d072c0704ce04f46823e137f9cd9247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 77
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27988701c2866e648944979d48930c73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ae_by_gabrieldrawingsxd-d8jprvf_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 77
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eafaabf2b2fba4cac7ed2969890ea6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: da6d20c04d1a674469a40918e48e28f0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

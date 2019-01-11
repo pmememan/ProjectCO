@@ -62,11 +62,13 @@
      <Compile Include="Assets\Scripts\EnemyHomingBullet.cs" />
      <Compile Include="Assets\Scripts\EnemyMovement.cs" />
      <Compile Include="Assets\Scripts\EnemyScript2.cs" />
+     <Compile Include="Assets\Scripts\FairyAOEscript.cs" />
      <Compile Include="Assets\Scripts\FairyScript.cs" />
      <Compile Include="Assets\Scripts\LookAtPlayer.cs" />
      <Compile Include="Assets\Scripts\LookAtReal.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\ScrollingBackground.cs" />
      <None Include="Assets\ProjectSettings\ProjectVersion.txt" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/Jordan/Documents/GitHub/ProjectCO/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

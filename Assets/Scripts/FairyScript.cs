@@ -6,13 +6,15 @@ public class FairyScript : MonoBehaviour {
 
 
     public GameObject bullet;
-    public int timer;
-    
+    public int firespeed;
+    public Rigidbody2D rb;
 
 
 
+    [SerializeField]
+    int speed;
 
-
+    private int timer;
 
 	// Use this for initialization
 	void Start () {
@@ -20,15 +22,32 @@ public class FairyScript : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void FixedUpdate () {
+
+        move();
+         
+        
+
 
         timer++;
 
-        if (timer == 20)
+        if (timer == firespeed)
         {
             Instantiate(bullet, transform.position, transform.rotation);
-            timer -= 20;
+            timer -= firespeed;
         }
+
+    }
+
+
+    void move()
+    {
+
+       
+        
+            rb.transform.position += Vector3.down * speed * Time.deltaTime;
+       
+
 
     }
 }

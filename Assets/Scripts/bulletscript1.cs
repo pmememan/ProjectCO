@@ -39,13 +39,13 @@ public class bulletscript1 : MonoBehaviour {
 
     void Destroyit()
     {
-        Destroy(gameObject);
+        
     }
 
     void shoot()
     {
         rb.AddForce(transform.up * speed);
-        Invoke("Destroyit", 4.5f);
+       ;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

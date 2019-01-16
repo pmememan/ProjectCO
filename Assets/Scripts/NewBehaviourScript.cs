@@ -14,7 +14,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	void Start () {
 
         rb.AddForce(transform.up * speed);
-        Invoke("Destroyit", 4.5f);
+        //Invoke("Destroyit", 4.5f);
 	}
 	
 	// Update is called once per frame

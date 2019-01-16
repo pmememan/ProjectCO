@@ -42,12 +42,12 @@ public class BulletScript : MonoBehaviour {
         difficulty = GameObject.Find("Player").GetComponent<PlayerMovement>().difficulty;
         player = GameObject.Find("Player");
 
-        if (rotatedirection > 0)
-        {
-            //isit = GameObject.Find("Boss1").GetComponent<Boss1Fight>().d;
+        //if (rotatedirection > 0)
+        //{
+        //    isit = GameObject.Find("Boss1").GetComponent<Boss1Fight>().d;
 
-            //isdan = GameObject.Find("Boss1").GetComponent<Boss1Fight>().dan;
-        }
+        //    isdan = GameObject.Find("Boss1").GetComponent<Boss1Fight>().dan;
+        //}
         if (isit == 1)
         {
             difficulty = 1;

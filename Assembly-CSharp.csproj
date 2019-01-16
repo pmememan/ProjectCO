@@ -64,6 +64,7 @@
      <Compile Include="Assets\Scripts\EnemyScript2.cs" />
      <Compile Include="Assets\Scripts\FairyAOEscript.cs" />
      <Compile Include="Assets\Scripts\FairyScript.cs" />
+     <Compile Include="Assets\Scripts\HealthScript.cs" />
      <Compile Include="Assets\Scripts\LookAtPlayer.cs" />
      <Compile Include="Assets\Scripts\LookAtReal.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
